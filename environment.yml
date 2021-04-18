@@ -1,0 +1,10 @@
+name: gesar-pc
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
